@@ -47,14 +47,14 @@ From writing my first Python script to building complete MLOps pipelines - this 
 - Built end-to-end MLOps pipeline with intelligent retraining and drift monitoring
 - Containerized microservice architecture deployed on Google Cloud Platform
 - Real-time API deployment with monitoring and alerting
-- **Tech Stack:** Python, BentoML, Docker, Prometheus, Grafana, GCP
+- **Tech Stack:** Python, MLflow, Airflow, Docker, Prometheus, Grafana, GCP
 
 ### 📊 Multimodal Data Science Project
 **Text & Image Classification Ensemble**
 - Multimodal ensemble combining classical ML, BERT, and VGG-16
 - Comprehensive data analysis and feature engineering
 - Advanced deep learning techniques for computer vision and NLP
-- **Tech Stack:** Python, PyTorch, BERT, OpenCV, Scikit-learn
+- **Tech Stack:** Python, PyTorch, BERT, VGG-16, Scikit-learn
 
 ## 💼 What Makes Me Unique
 
@@ -68,8 +68,8 @@ From writing my first Python script to building complete MLOps pipelines - this 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wilsbert12&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsbert12&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
 - Advanced BentoML features for model serving and deployment
