@@ -28,16 +28,13 @@ From writing my first Python script to building complete MLOps pipelines - this 
 ### Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-![Bokeh](https://img.shields.io/badge/Bokeh-E84142?style=flat&logo=python&logoColor=white)
 
 ### MLOps & Deployment
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ### Cloud & Databases
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## 🎯 Featured Projects
@@ -72,10 +69,7 @@ From writing my first Python script to building complete MLOps pipelines - this 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
-- Advanced MLOps practices and cloud architecture
-- Production-scale deep learning deployment
-- Advanced time series forecasting
-- Kubernetes for ML workloads
+- Advanced BentoML features for model serving and deployment
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
