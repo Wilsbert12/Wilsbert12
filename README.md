@@ -68,8 +68,8 @@ From writing my first Python script to building complete MLOps pipelines - this 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wilsbert12&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsbert12&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
 - Advanced BentoML features for model serving and deployment
