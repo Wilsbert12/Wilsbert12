@@ -6,7 +6,7 @@ After 6.5+ years in SaaS sales at companies like **Salesforce**, I've made a str
 
 ## 🎓 Recent Achievement
 **6-Month Intensive Data Science & MLOps Bootcamp**  
-*Université Paris 1 Panthéon-Sorbonne* | 300+ hours of hands-on training
+*Université Paris 1 Panthéon-Sorbonne* | 932+ hours of hands-on training lessons + 2 cap stone projects
 
 From writing my first Python script to building complete MLOps pipelines - this transformation represents months of dedication and countless hours of coding, debugging, and learning.
 
