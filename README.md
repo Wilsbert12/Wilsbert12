@@ -24,6 +24,7 @@ From writing my first Python script to building complete MLOps pipelines - this 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -67,7 +68,7 @@ From writing my first Python script to building complete MLOps pipelines - this 
 - Dashboard 2 (HR Directors): interactive normalised heatmap across several workforce metrics, highlighting concrete actionable insights
 - Dashboard 3 (Policymakers): preset filters with a numerical and graphical overview of structural job market changes and concrete policy recommendations
 - **Tech Stack:** Tableau, Python
-- **[Tableau Public](#) | [GitHub](#) | [Kaggle](#)**
+- **[Tableau Public](https://public.tableau.com/app/profile/robert.wilson8303/viz/ai_jobmarket/AITheFutureofWorkADataStory) | [GitHub](https://github.com/Wilsbert12/ai-job-market-tableau) | [Kaggle](https://www.kaggle.com/code/robertw12345/ai-job-market-data-exploration)**
 
 ### 📊 Google Merchandise Store — Marketing Channel Analysis
 **Python/Jupyter Notebook EDA structured as a CMO-level briefing**
@@ -77,7 +78,7 @@ From writing my first Python script to building complete MLOps pipelines - this 
 - Tracked revenue per session over time to identify seasonal acquisition windows
 - Applied permutation testing to assess statistical significance of a low-volume channel anomaly
 - **Tech Stack:** Python, pandas, matplotlib, seaborn, BigQuery
-- **[GitHub](#) | [Kaggle](#)**
+- **[GitHub](https://github.com/Wilsbert12/google-merch-store-eda) | [Kaggle](https://www.kaggle.com/code/robertw12345/marketing-channel-analysis-cmo-recommendation)**
 
 ## 💼 What Makes Me Unique
 
