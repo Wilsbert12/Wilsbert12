@@ -2,8 +2,7 @@
 
 **Data Analyst · Data Scientist · MLOps · Hamburg**
 
-I translate data into business decisions — because I've been on the business side myself.  
-6.5+ years in enterprise SaaS sales, including Salesforce, before transitioning into data.
+Hallo, I'm Robert — a data analyst and data scientist based in Hamburg. I spent 6.5 years in enterprise SaaS sales, including Salesforce, before making the move into data. That background shapes how I work: I structure analysis around actionable decisions — going from numbers to actions.
 
 🌐 **[Portfolio](https://wilsbert12.github.io)** — three published analytics projects across Tableau, Python/BigQuery, and SQL, plus two data science capstone projects from a 6-month intensive bootcamp at Université Paris 1 Panthéon-Sorbonne.
 
